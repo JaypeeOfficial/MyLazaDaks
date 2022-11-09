@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLazaDaks", "MyLazaDaks\MyLazaDaks.csproj", "{37687B29-10C1-483D-B3E8-9257BA5ECF7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAZADAKS.DATA", "LAZADAKS.DATA\LAZADAKS.DATA\LAZADAKS.DATA.csproj", "{CFBE0961-E917-4B4E-AC77-700DD440A6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37687B29-10C1-483D-B3E8-9257BA5ECF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37687B29-10C1-483D-B3E8-9257BA5ECF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37687B29-10C1-483D-B3E8-9257BA5ECF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37687B29-10C1-483D-B3E8-9257BA5ECF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBE0961-E917-4B4E-AC77-700DD440A6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBE0961-E917-4B4E-AC77-700DD440A6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBE0961-E917-4B4E-AC77-700DD440A6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBE0961-E917-4B4E-AC77-700DD440A6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1CA4294-95DB-4113-9655-FAE58402A592}
+	EndGlobalSection
+EndGlobal
